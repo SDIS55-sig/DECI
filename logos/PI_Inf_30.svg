@@ -2,10 +2,6 @@
   <!-- Cercle principal -->
   <circle cx="100" cy="100" r="90" stroke="#444444" stroke-width="6" fill="white"></circle>
 
-  <!-- Quart haut droite bleu -->
-  <path d="M100 10
-           A90 90 0 0 1 190 100
-           L100 100 Z" fill="#3b82f6"></path>
 
   <!-- Croix -->
   <!-- Verticale -->
