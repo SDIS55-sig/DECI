@@ -6,7 +6,7 @@
 
   <!-- Quart haut droite bleu -->
   <path d="M100 10
-           A100 90 0 0 1 190 100
+           A90 90 0 0 1 190 100
            L100 100 Z" fill="#3b82f6"></path>
 
   <!-- Croix -->
