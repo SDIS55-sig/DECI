@@ -4,7 +4,7 @@
 
   <!-- Quart haut gauche bleu -->
   <path d="M100 10
-           L100 100
+           L90 90
            L10 100
            A90 90 0 0 1 100 10
            Z" fill="#3b82f6"></path>
